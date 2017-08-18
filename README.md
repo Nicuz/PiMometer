@@ -1,5 +1,4 @@
-#Room Thermometer
-
+# Room Thermometer
 Script per la creazione di un piccolo termometro che mostra ora, data, temperatura e umidità con l'utilizzo di un sensore DHT11/DHT22 e uno display LCD 16x2 HD44780.
 
 ![alt tag](https://github.com/Nicuz/Room_Thermometer/blob/master/images/display_data.jpg)

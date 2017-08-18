@@ -17,7 +17,7 @@ lcd_backlight = 4
 lcd_columns   = 16
 lcd_rows      = 2
 
-#Display inizialization
+#Display initialization
 lcd = Adafruit_CharLCD(lcd_rs, lcd_en, lcd_d4, lcd_d5, lcd_d6, lcd_d7, lcd_columns, lcd_rows, lcd_backlight)
 
 #DHT11

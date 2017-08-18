@@ -1,11 +1,15 @@
 # Room Thermometer
 Script per la creazione di un piccolo termometro che mostra ora, data, temperatura e umidità con l'utilizzo di un sensore DHT11/DHT22 e un display LCD 16x2 HD44780.
 
-![alt tag](https://github.com/Nicuz/Room_Thermometer/blob/master/images/display_data.jpg)
+<p align="center">
+  <img src="https://github.com/Nicuz/Room_Thermometer/blob/master/images/display_data.jpg"
+</p>
 
 **Cablaggio:**
 
-![alt tag](https://github.com/Nicuz/Room_Thermometer/blob/master/images/Raspberry%20Pi%2016x2%20LCD%20HD44780.png)
+<p align="center">
+  <img src="https://github.com/Nicuz/Room_Thermometer/blob/master/images/Raspberry%20Pi%2016x2%20LCD%20HD44780.png"
+</p>
 
 **Requisiti:**
 * Adafruit_DHT
